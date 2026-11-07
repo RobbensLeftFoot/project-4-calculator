@@ -48,6 +48,8 @@ button {
   font-size: 2rem;
   text-align: right;
   padding: 20px;
+  overflow: hidden;
+  white-space: nowrap;
 }
 
 button:hover {
